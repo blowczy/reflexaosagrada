@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Lucas 1:37: "Pois nada é impossível para Deus."</string>
+    <string name="affirmation2">Lucas 1:45: "Bem-aventurada aquela que creu, porque será cumprido o que lhe foi dito da parte do Senhor."</string>
+    <string name="affirmation3">Lucas 6:38: "Dai, e será vos dado: boa medida, recalcada, sacudida e transbordante vos darão. Porque com a mesma medida com que medirdes também vos medirão de novo."</string>
+    <string name="affirmation4">Lucas 11:9: "Peçam, e será dado a vocês; busquem, e encontrarão; batam, e a porta lhes será aberta."</string>
+    <string name="affirmation5">Lucas 12:7: "Mesmo todos os cabelos da cabeça de vocês estão contados. Não tenham medo; vocês valem mais do que muitos passáros."</string>
+    <string name="affirmation6">Lucas 12:32: "Não temas, pequeno rebanho, porque a vosso Pai agradou dar-vos o reino."</string>
+    <string name="affirmation7">Lucas 15:10: "Assim, eu vos digo que há alegria diante dos anjos de Deus por um pecador que se arrepende."</string>
+    <string name="affirmation8">Lucas 18:27: "Jesus respondeu: 'O que é impossível para os homens é possível para Deus.'"</string>
+    <string name="affirmation9">Lucas 21:19: "Pela vossa perseverança, ganhareis as vossas almas."</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+</resources>
